@@ -1,0 +1,16 @@
+{
+    "name": "ilya/php-cli",
+    "autoload": {
+        "psr-4": {
+            "Ego\\Console\\": "src/",
+            "Ego\\ConsoleExample": "example/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ilya Saranchyev",
+            "email": "engine-r@ya.ru"
+        }
+    ],
+    "require": {}
+}
